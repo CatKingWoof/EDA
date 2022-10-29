@@ -1,0 +1,2 @@
+make
+./0810917_lab2.o input.in output_file 
