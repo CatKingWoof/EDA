@@ -1,3 +1,3 @@
 # EDA
-NYCU EDA Class
-lab homework
+lab homework from NYCU EDA Class
+
